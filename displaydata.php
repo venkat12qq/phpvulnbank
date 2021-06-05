@@ -7,6 +7,7 @@ Account: <input type="text" name="aid"> <br><br>
 </form>
 
  <a href='profile.php'>profile</a>
+ //hai
 
 
 <?php
