@@ -19,7 +19,8 @@ session_start();
 
 	else
 	{
-		echo "Out of session hai"; 		
+		echo "Out of session"; 
+//hai		
 	}
 
 ?>
