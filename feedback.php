@@ -20,7 +20,7 @@ session_start();
 	else
 	{
 		echo "Out of session check"; 
-//hai venkat		
+//hai venkat how are you	
 	}
 
 ?>
