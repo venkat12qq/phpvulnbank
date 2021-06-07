@@ -29,7 +29,7 @@ $query="UPDATE banktable SET feedback='$feedback' WHERE username='$username'";
 
 $result=mysqli_query($con,$query);
 
-echo "Feedback updated successfully";
+echo " dear user Feedback updated successfully ";
 }
 
 ?>
