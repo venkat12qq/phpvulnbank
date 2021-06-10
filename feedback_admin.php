@@ -20,6 +20,7 @@ session_start();
 		$con = mysqli_connect("localhost","root","bose123$","bankdb");
 	 
 		$result=mysqli_query($con,"select * from banktable");
+		//
 		for($i=1;$i<6;$i++)
 			{ 
 			$row=mysqli_fetch_row($result);
