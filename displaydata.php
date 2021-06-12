@@ -27,7 +27,7 @@ if(isset($_GET['aid']) )
 
  
  echo $row[1]." ".$row[2]." ".$row[3];
- //welcome gg gg
+ //welcome gg gg//
 }
 ?>
 
